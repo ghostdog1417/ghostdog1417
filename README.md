@@ -115,8 +115,7 @@ To build scalable, data-driven systems and grow into a highly skilled Data Scien
 
 ## Connect
 
-Email: srijan.2428cse1829@kiet.edu  
-Alternate Email: srijan.17.dw@gmail.com  
+Email: srijan.17.dw@gmail.com  
 LinkedIn: https://www.linkedin.com/in/srijan-dwivedi-b38bb2318/
 
 ---
