@@ -15,8 +15,8 @@ Currently focused on strengthening core Data Science skills, algorithmic problem
 
 ## Core Competencies
 
-- Data Structures & Algorithms  
-- Machine Learning Fundamentals  
+- Flutter  
+- Machine Learning 
 - Data Analysis & Visualization  
 - Model Training & Evaluation  
 - Problem Solving & Logical Thinking  
@@ -29,7 +29,8 @@ Currently focused on strengthening core Data Science skills, algorithmic problem
 ### Programming Languages
 - Python  
 - C++  
-- JavaScript  
+- JavaScript
+- Dart
 
 ### Data Science & AI
 - NumPy  
