@@ -2,12 +2,6 @@
 
 Computer Science Engineering Undergraduate | Research-Oriented Profile in AI and Data Science
 
-## Profile Versions
-
-- ATS and recruiter version: [README_ATS.md](README_ATS.md)
-- Personal brand version: [README_BRAND.md](README_BRAND.md)
-- Research and higher studies version: [README_RESEARCH.md](README_RESEARCH.md)
-
 ## Academic and Research Overview
 
 I am an undergraduate Computer Science student with a developing research interest in machine learning, computer vision, and data-driven decision systems. My work emphasizes methodical problem formulation, structured experimentation, and practical validation through implementations.
@@ -45,6 +39,20 @@ I am an undergraduate Computer Science student with a developing research intere
 - Git and GitHub
 - Jupyter Notebook
 - VS Code
+
+## Representative Project Work
+
+### AI-Powered Public Safety Concept
+Conceptualized an AI-integrated framework for public transport safety by combining monitoring, authentication, and emergency coordination modules.
+
+### Piezoelectric Energy Harvesting Prototype
+Developed a prototype system for converting mechanical pressure into electrical energy, demonstrating practical viability in constrained environments.
+
+### Smart Radar-Based Obstacle Detection System
+Implemented an Arduino and ultrasonic sensor pipeline with Python-based visualization for real-time obstacle detection and analysis.
+
+### Machine Learning Implementations
+Built classification and regression pipelines using Scikit-learn, with structured preprocessing, model training, and comparative evaluation.
 
 ## Current Academic Focus
 
