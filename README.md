@@ -144,7 +144,7 @@ Open For:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghostdog1417&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghostdog1417&theme=github_dark&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghostdog1417&theme=github_dark&utcOffset=5" />
 
 </div>
 
