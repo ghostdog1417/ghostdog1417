@@ -1,83 +1,242 @@
-# Srijan Dwivedi
+<div align="center">
 
-Computer Science Engineering Undergraduate | Data Science, Machine Learning, and Applied Research
+# ⚡ Srijan Dwivedi
 
-This is a combined profile that brings together recruiter-friendly structure, personal brand narrative, and research-oriented positioning.
+### Full Stack Developer • Flutter Developer • CSE Student • AI Enthusiast
 
-## Professional Summary
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=850&lines=Building+Impactful+Digital+Experiences;Flutter+%7C+React+%7C+Node.js;Exploring+AI+%26+Cloud+Technologies;Open+to+Internships+and+Collaborations" />
 
-Computer Science undergraduate with practical experience in machine learning implementation, data analysis workflows, and product-focused development. Strong foundation in Data Structures and Algorithms, with a consistent focus on building reliable and impactful AI-driven systems.
+</div>
 
-## Personal Statement
+---
 
-I enjoy turning ideas into useful systems at the intersection of machine learning, software engineering, and real-world problem solving. I value clarity, disciplined execution, and building solutions that are measurable, scalable, and meaningful.
+## 🟨 About Me
 
-## Academic and Research Orientation
+```yaml
+Name: Srijan Dwivedi
+Role: Full Stack Developer
+Education: B.Tech Computer Science & Engineering
+Institution: KIET Group of Institutions
+Graduation: 2028
 
-I am developing a research path in machine learning, computer vision, and data-driven decision systems. My work emphasizes methodical problem formulation, structured experimentation, and practical validation through implementation.
+Focus Areas:
+  - Full Stack Development
+  - Flutter Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Computing
+  - UI/UX Design
 
-## Research Interests
+Open For:
+  - Internships
+  - Collaborations
+  - Open Source Contributions
+```
 
-- Applied machine learning for real-world systems
-- Predictive modeling and evaluation methodology
-- Computer vision for monitoring and safety applications
-- AI for social impact and public-system reliability
-- Data-centric engineering and intelligent decision support
+---
 
-## Technical Skills
+## 🖤 Connect With Me
 
-### Programming and Computing
-- Python
-- C++
-- JavaScript
-- Dart
-- Linux-based development workflow
+<p align="center">
 
-### AI and Data Science Toolkit
-- NumPy
-- Pandas
-- Scikit-learn
-- OpenCV
-- Data preprocessing and feature engineering
-- Supervised learning methods
-- Introductory NLP concepts
+<a href="mailto:srijan.17.dw@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFD600?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
-### Development and Product Stack
-- Flutter
-- React (fundamentals)
-- Firebase
-- HTML
-- CSS
-- Bootstrap
-- Git and GitHub
-- Jupyter Notebook
-- VS Code
+<a href="https://github.com/ghostdog1417">
+<img src="https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-## Current Focus
+<a href="https://linkedin.com/in/srijandwivedi">
+<img src="https://img.shields.io/badge/LinkedIn-FFD600?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
-- Advanced machine learning algorithms
-- Model optimization and validation strategies
-- Foundations of data engineering for scalable ML workflows
-- Algorithmic rigor through competitive programming
+</p>
 
-## GitHub Insights
+---
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghostdog1417&theme=github)
+# 🟨 Tech Stack
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghostdog1417&theme=github)
+### Programming Languages
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ghostdog1417&theme=default)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript,mysql" />
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghostdog1417&theme=github)
+### Frameworks & Technologies
 
-## Career Objective
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mongodb,firebase" />
+</p>
 
-To pursue advanced research and engineering in AI and Data Science, contributing to robust, interpretable, and socially valuable intelligent systems.
+### Tools & Platforms
 
-## Contact
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,linux" />
+</p>
 
-- Email: srijan.17.dw@gmail.com
-- LinkedIn: https://www.linkedin.com/in/srijan-dwivedi-b38bb2318/
-- GitHub: https://github.com/ghostdog1417
+### CMS & Website Builders
 
-Build with logic. Learn with discipline. Improve with consistency.
+<p align="center">
+<img src="https://img.shields.io/badge/WordPress-FFD600?style=for-the-badge&logo=wordpress&logoColor=black" />
+<img src="https://img.shields.io/badge/Shopify-FFD600?style=for-the-badge&logo=shopify&logoColor=black" />
+<img src="https://img.shields.io/badge/Wix-FFD600?style=for-the-badge&logo=wix&logoColor=black" />
+</p>
+
+---
+
+# 🖤 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghostdog1417&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdog1417&layout=compact&theme=highcontrast&hide_border=true&count_private=true" />
+
+</div>
+
+---
+
+# ⚡ Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ghostdog1417&theme=highcontrast&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostdog1417&bg_color=000000&color=FFD600&line=FFD600&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Currently Working On
+
+- 🌱 Machine Learning & Agentic AI
+- ☁️ AWS Cloud Technologies
+- 📱 Flutter Application Development
+- ⚛️ Full Stack Web Development
+- 🎨 Responsive UI/UX Design
+- 🤝 Open Source & Collaborative Projects
+
+---
+
+# 📊 Detailed GitHub Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghostdog1417&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghostdog1417&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghostdog1417&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghostdog1417&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghostdog1417&theme=github_dark&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ghostdog1417/ghostdog1417/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+# 💻 Experience
+
+### UNNMESH Foundation
+- Founder & President
+
+### InAmigos Foundation
+- Content Writing Intern
+
+### Helping Hut
+- Volunteer
+
+### UDDESHHYA
+- Project In-charge
+- Member
+  
+---
+
+# 🎯 Core Competencies
+
+```text
+Full Stack Development
+Flutter Development
+Machine Learning
+Artificial Intelligence
+Cloud Computing
+REST API Integration
+Database Management
+Problem Solving
+UI/UX Design
+Technical Writing
+```
+
+---
+
+# 🌐 Languages
+
+- English
+- Hindi
+
+---
+
+# 🎨 Beyond Code
+
+✍️ Content Writing
+
+🎵 Poetry & Song Writing
+
+🎤 Public Speaking
+
+🎨 Presentation & Design
+
+🤝 Social Work & Volunteering
+
+🌍 Social Impact Projects
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ghostdog1417&label=PROFILE+VIEWS&color=FFD600&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Building technology that creates real-world impact.
+
+</div>
