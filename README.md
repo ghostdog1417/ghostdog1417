@@ -28,7 +28,6 @@ Focus Areas:
   - UI/UX Design
 
 Open For:
-  - Internships
   - Collaborations
   - Open Source Contributions
 ```
@@ -158,23 +157,6 @@ Open For:
 
 </div>
 
----
-
-# 💻 Experience
-
-### UNNMESH Foundation
-- Founder & President
-
-### InAmigos Foundation
-- Content Writing Intern
-
-### Helping Hut
-- Volunteer
-
-### UDDESHHYA
-- Project In-charge
-- Member
-  
 ---
 
 # 🎯 Core Competencies
